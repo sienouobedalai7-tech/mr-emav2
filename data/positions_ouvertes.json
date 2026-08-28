@@ -1,1 +1,44 @@
-[]
+[
+  {
+    "id": "BTC-USD_2026-08-28T15:26:24.476711+00:00",
+    "ticker": "BTC-USD",
+    "ticker_display": "BTC/USD",
+    "asset_type": "crypto",
+    "direction": "ACHAT",
+    "prix_entree": 79507.49219,
+    "stop_loss": 78997.42168,
+    "take_profit_1": 80323.605,
+    "take_profit_2": 80731.66141,
+    "take_profit_3": 81139.71782,
+    "rr_tp1": 1.6,
+    "pips_risque": 510.07,
+    "ouverte_le": "2026-08-28T15:26:24.476711+00:00",
+    "statut": "OUVERTE",
+    "tp1_touche": false,
+    "tp2_touche": false,
+    "tp3_touche": false,
+    "resultat_pips": null,
+    "fermee_le": null
+  },
+  {
+    "id": "GBPJPY=X_2026-08-28T15:26:29.530742+00:00",
+    "ticker": "GBPJPY=X",
+    "ticker_display": "GBP/JPY",
+    "asset_type": "forex",
+    "direction": "ACHAT",
+    "prix_entree": 216.899,
+    "stop_loss": 216.66156,
+    "take_profit_1": 217.27891,
+    "take_profit_2": 217.46887,
+    "take_profit_3": 217.65882,
+    "rr_tp1": 1.6,
+    "pips_risque": 23.7,
+    "ouverte_le": "2026-08-28T15:26:29.530742+00:00",
+    "statut": "OUVERTE",
+    "tp1_touche": false,
+    "tp2_touche": false,
+    "tp3_touche": false,
+    "resultat_pips": null,
+    "fermee_le": null
+  }
+]
