@@ -1,0 +1,49 @@
+name: MR EMA v2 - Robot de Trading
+
+on:
+  schedule:
+    - cron: '*/10 * * * *'
+  workflow_dispatch:
+
+concurrency:
+  group: mr-ema-v2-cron
+  cancel-in-progress: false
+
+jobs:
+  run-robot:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+
+    steps:
+      - name: Checkout du code
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Installer les dépendances
+        run: pip install -r requirements.txt
+
+      - name: Lancer le robot MR EMA
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python main.py
+
+      - name: Commit et push de l'état mis à jour
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "MR EMA Bot"
+          git add data/
+          if ! git diff --cached --quiet; then
+            git commit -m "Mise à jour état positions [skip ci]"
+            git pull --rebase origin main
+            git push
+          else
+            echo "Aucun changement d'état à commiter."
+          fi
