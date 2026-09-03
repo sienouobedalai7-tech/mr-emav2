@@ -229,5 +229,26 @@
     "tp3_touche": false,
     "resultat_pips": -5.5,
     "fermee_le": "2026-09-03T04:13:19.653059+00:00"
+  },
+  {
+    "id": "EURCHF=X_2026-09-02T22:00:50.687625+00:00",
+    "ticker": "EURCHF=X",
+    "ticker_display": "EUR/CHF",
+    "asset_type": "forex",
+    "direction": "ACHAT",
+    "prix_entree": 0.94189,
+    "stop_loss": 0.9409,
+    "take_profit_1": 0.94348,
+    "take_profit_2": 0.94427,
+    "take_profit_3": null,
+    "rr_tp1": 1.6,
+    "pips_risque": 9.9,
+    "ouverte_le": "2026-09-02T22:00:50.687625+00:00",
+    "statut": "FERMEE_SL",
+    "tp1_touche": false,
+    "tp2_touche": false,
+    "tp3_touche": false,
+    "resultat_pips": -9.9,
+    "fermee_le": "2026-09-03T08:57:11.201066+00:00"
   }
 ]
