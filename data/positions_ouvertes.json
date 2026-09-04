@@ -1,1 +1,44 @@
-[]
+[
+  {
+    "id": "USDJPY=X_2026-09-04T10:46:24.714067+00:00",
+    "ticker": "USDJPY=X",
+    "ticker_display": "USD/JPY",
+    "asset_type": "forex",
+    "direction": "VENTE",
+    "prix_entree": 156.339,
+    "stop_loss": 156.52683,
+    "take_profit_1": 156.03848,
+    "take_profit_2": 155.88821,
+    "take_profit_3": null,
+    "rr_tp1": 1.6,
+    "pips_risque": 18.8,
+    "ouverte_le": "2026-09-04T10:46:24.714067+00:00",
+    "statut": "OUVERTE",
+    "tp1_touche": false,
+    "tp2_touche": false,
+    "tp3_touche": false,
+    "resultat_pips": null,
+    "fermee_le": null
+  },
+  {
+    "id": "USDCAD=X_2026-09-04T10:46:28.483566+00:00",
+    "ticker": "USDCAD=X",
+    "ticker_display": "USD/CAD",
+    "asset_type": "forex",
+    "direction": "VENTE",
+    "prix_entree": 1.3799,
+    "stop_loss": 1.38112,
+    "take_profit_1": 1.37795,
+    "take_profit_2": 1.37697,
+    "take_profit_3": null,
+    "rr_tp1": 1.6,
+    "pips_risque": 12.2,
+    "ouverte_le": "2026-09-04T10:46:28.483566+00:00",
+    "statut": "OUVERTE",
+    "tp1_touche": false,
+    "tp2_touche": false,
+    "tp3_touche": false,
+    "resultat_pips": null,
+    "fermee_le": null
+  }
+]
