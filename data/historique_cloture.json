@@ -313,5 +313,26 @@
     "tp3_touche": false,
     "resultat_pips": -12.2,
     "fermee_le": "2026-09-04T14:34:02.054941+00:00"
+  },
+  {
+    "id": "USDJPY=X_2026-09-04T10:46:24.714067+00:00",
+    "ticker": "USDJPY=X",
+    "ticker_display": "USD/JPY",
+    "asset_type": "forex",
+    "direction": "VENTE",
+    "prix_entree": 156.339,
+    "stop_loss": 156.52683,
+    "take_profit_1": 156.03848,
+    "take_profit_2": 155.88821,
+    "take_profit_3": null,
+    "rr_tp1": 1.6,
+    "pips_risque": 18.8,
+    "ouverte_le": "2026-09-04T10:46:24.714067+00:00",
+    "statut": "FERMEE_EXPIREE",
+    "tp1_touche": true,
+    "tp2_touche": false,
+    "tp3_touche": false,
+    "resultat_pips": -11.8,
+    "fermee_le": "2026-09-05T05:46:53.057266+00:00"
   }
 ]
