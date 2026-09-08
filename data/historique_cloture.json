@@ -418,5 +418,26 @@
     "tp3_touche": false,
     "resultat_pips": 2.1,
     "fermee_le": "2026-09-07T18:05:34.001081+00:00"
+  },
+  {
+    "id": "AUDCAD=X_2026-09-07T23:38:41.492213+00:00",
+    "ticker": "AUDCAD=X",
+    "ticker_display": "AUD/CAD",
+    "asset_type": "forex",
+    "direction": "ACHAT",
+    "prix_entree": 0.99711,
+    "stop_loss": 0.99539,
+    "take_profit_1": 0.99986,
+    "take_profit_2": 1.00124,
+    "take_profit_3": null,
+    "rr_tp1": 1.6,
+    "pips_risque": 17.2,
+    "ouverte_le": "2026-09-07T23:38:41.492213+00:00",
+    "statut": "FERMEE_SL",
+    "tp1_touche": false,
+    "tp2_touche": false,
+    "tp3_touche": false,
+    "resultat_pips": -17.2,
+    "fermee_le": "2026-09-08T06:04:51.247748+00:00"
   }
 ]
