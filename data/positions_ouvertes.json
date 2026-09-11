@@ -1,26 +1,5 @@
 [
   {
-    "id": "EURCAD=X_2026-09-10T14:23:36.911987+00:00",
-    "ticker": "EURCAD=X",
-    "ticker_display": "EUR/CAD",
-    "asset_type": "forex",
-    "direction": "ACHAT",
-    "prix_entree": 1.60661,
-    "stop_loss": 1.60494,
-    "take_profit_1": 1.60928,
-    "take_profit_2": 1.61062,
-    "take_profit_3": 1.61196,
-    "rr_tp1": 1.6,
-    "pips_risque": 16.7,
-    "ouverte_le": "2026-09-10T14:23:36.911987+00:00",
-    "statut": "OUVERTE",
-    "tp1_touche": false,
-    "tp2_touche": false,
-    "tp3_touche": false,
-    "resultat_pips": null,
-    "fermee_le": null
-  },
-  {
     "id": "EURGBP=X_2026-09-11T00:20:09.710537+00:00",
     "ticker": "EURGBP=X",
     "ticker_display": "EUR/GBP",
