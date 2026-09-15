@@ -21,27 +21,6 @@
     "fermee_le": null
   },
   {
-    "id": "AUDUSD=X_2026-09-15T14:29:50.345800+00:00",
-    "ticker": "AUDUSD=X",
-    "ticker_display": "AUD/USD",
-    "asset_type": "forex",
-    "direction": "VENTE",
-    "prix_entree": 0.71301,
-    "stop_loss": 0.71347,
-    "take_profit_1": 0.71228,
-    "take_profit_2": 0.71191,
-    "take_profit_3": null,
-    "rr_tp1": 1.6,
-    "pips_risque": 4.6,
-    "ouverte_le": "2026-09-15T14:29:50.345800+00:00",
-    "statut": "OUVERTE",
-    "tp1_touche": false,
-    "tp2_touche": false,
-    "tp3_touche": false,
-    "resultat_pips": null,
-    "fermee_le": null
-  },
-  {
     "id": "AUDCAD=X_2026-09-15T14:29:56.646953+00:00",
     "ticker": "AUDCAD=X",
     "ticker_display": "AUD/CAD",
