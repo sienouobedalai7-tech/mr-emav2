@@ -1,26 +1,5 @@
 [
   {
-    "id": "USDCHF=X_2026-09-15T09:48:01.847923+00:00",
-    "ticker": "USDCHF=X",
-    "ticker_display": "USD/CHF",
-    "asset_type": "forex",
-    "direction": "ACHAT",
-    "prix_entree": 0.81798,
-    "stop_loss": 0.81732,
-    "take_profit_1": 0.81904,
-    "take_profit_2": 0.81956,
-    "take_profit_3": null,
-    "rr_tp1": 1.6,
-    "pips_risque": 6.6,
-    "ouverte_le": "2026-09-15T09:48:01.847923+00:00",
-    "statut": "TP1_TOUCHE",
-    "tp1_touche": true,
-    "tp2_touche": false,
-    "tp3_touche": false,
-    "resultat_pips": null,
-    "fermee_le": null
-  },
-  {
     "id": "AUDCAD=X_2026-09-15T14:29:56.646953+00:00",
     "ticker": "AUDCAD=X",
     "ticker_display": "AUD/CAD",
