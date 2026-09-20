@@ -1,6 +1,6 @@
 [
   {
-    "id": "AUDUSD=X_2026-09-19T16:45:34.461480+00:00",
+    "id": "AUDUSD=X_2026-09-20T11:12:47.475306+00:00",
     "ticker": "AUDUSD=X",
     "ticker_display": "AUD/USD",
     "asset_type": "forex",
@@ -12,7 +12,7 @@
     "take_profit_3": null,
     "rr_tp1": 1.6,
     "pips_risque": 3.0,
-    "ouverte_le": "2026-09-19T16:45:34.461480+00:00",
+    "ouverte_le": "2026-09-20T11:12:47.475306+00:00",
     "statut": "OUVERTE",
     "tp1_touche": false,
     "tp2_touche": false,
@@ -21,7 +21,7 @@
     "fermee_le": null
   },
   {
-    "id": "NZDUSD=X_2026-09-19T16:45:36.718930+00:00",
+    "id": "NZDUSD=X_2026-09-20T11:12:48.948385+00:00",
     "ticker": "NZDUSD=X",
     "ticker_display": "NZD/USD",
     "asset_type": "forex",
@@ -33,7 +33,7 @@
     "take_profit_3": null,
     "rr_tp1": 1.6,
     "pips_risque": 2.3,
-    "ouverte_le": "2026-09-19T16:45:36.718930+00:00",
+    "ouverte_le": "2026-09-20T11:12:48.948385+00:00",
     "statut": "OUVERTE",
     "tp1_touche": false,
     "tp2_touche": false,
