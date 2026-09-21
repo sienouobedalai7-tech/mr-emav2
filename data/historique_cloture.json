@@ -964,5 +964,26 @@
     "tp3_touche": false,
     "resultat_pips": -0.0,
     "fermee_le": "2026-09-20T11:12:44.485775+00:00"
+  },
+  {
+    "id": "AUDUSD=X_2026-09-20T11:12:47.475306+00:00",
+    "ticker": "AUDUSD=X",
+    "ticker_display": "AUD/USD",
+    "asset_type": "forex",
+    "direction": "VENTE",
+    "prix_entree": 0.71215,
+    "stop_loss": 0.71245,
+    "take_profit_1": 0.71167,
+    "take_profit_2": 0.71143,
+    "take_profit_3": null,
+    "rr_tp1": 1.6,
+    "pips_risque": 3.0,
+    "ouverte_le": "2026-09-20T11:12:47.475306+00:00",
+    "statut": "FERMEE_SL",
+    "tp1_touche": false,
+    "tp2_touche": false,
+    "tp3_touche": false,
+    "resultat_pips": -3.0,
+    "fermee_le": "2026-09-21T01:38:37.985339+00:00"
   }
 ]
