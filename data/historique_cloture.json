@@ -1153,5 +1153,26 @@
     "tp3_touche": false,
     "resultat_pips": 5.6000000000000005,
     "fermee_le": "2026-09-22T15:34:21.318666+00:00"
+  },
+  {
+    "id": "CHFJPY=X_2026-09-22T01:05:43.772316+00:00",
+    "ticker": "CHFJPY=X",
+    "ticker_display": "CHF/JPY",
+    "asset_type": "forex",
+    "direction": "ACHAT",
+    "prix_entree": 191.774,
+    "stop_loss": 191.55995,
+    "take_profit_1": 192.11649,
+    "take_profit_2": 192.28774,
+    "take_profit_3": null,
+    "rr_tp1": 1.6,
+    "pips_risque": 21.4,
+    "ouverte_le": "2026-09-22T01:05:43.772316+00:00",
+    "statut": "FERMEE_EXPIREE",
+    "tp1_touche": false,
+    "tp2_touche": false,
+    "tp3_touche": false,
+    "resultat_pips": -11.0,
+    "fermee_le": "2026-09-22T21:59:39.086202+00:00"
   }
 ]
