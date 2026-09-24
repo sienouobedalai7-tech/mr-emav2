@@ -13,9 +13,9 @@
     "rr_tp1": 1.6,
     "pips_risque": 10.9,
     "ouverte_le": "2026-09-24T07:32:38.303330+00:00",
-    "statut": "OUVERTE",
-    "tp1_touche": false,
-    "tp2_touche": false,
+    "statut": "TP2_TOUCHE",
+    "tp1_touche": true,
+    "tp2_touche": true,
     "tp3_touche": false,
     "resultat_pips": null,
     "fermee_le": null
