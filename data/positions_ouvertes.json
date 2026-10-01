@@ -1,26 +1,5 @@
 [
   {
-    "id": "GBPAUD=X_2026-10-01T07:33:29.179099+00:00",
-    "ticker": "GBPAUD=X",
-    "ticker_display": "GBP/AUD",
-    "asset_type": "forex",
-    "direction": "ACHAT",
-    "prix_entree": 1.90644,
-    "stop_loss": 1.90469,
-    "take_profit_1": 1.90924,
-    "take_profit_2": 1.91064,
-    "take_profit_3": null,
-    "rr_tp1": 1.6,
-    "pips_risque": 17.5,
-    "ouverte_le": "2026-10-01T07:33:29.179099+00:00",
-    "statut": "OUVERTE",
-    "tp1_touche": false,
-    "tp2_touche": false,
-    "tp3_touche": false,
-    "resultat_pips": null,
-    "fermee_le": null
-  },
-  {
     "id": "AUDCAD=X_2026-10-01T07:33:34.275058+00:00",
     "ticker": "AUDCAD=X",
     "ticker_display": "AUD/CAD",
