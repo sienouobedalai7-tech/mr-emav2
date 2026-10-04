@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "id": "NZDJPY=X_2026-10-04T23:26:32.890343+00:00",
+    "ticker": "NZDJPY=X",
+    "ticker_display": "NZD/JPY",
+    "asset_type": "forex",
+    "direction": "VENTE",
+    "prix_entree": 88.556,
+    "stop_loss": 88.64875,
+    "take_profit_1": 88.4076,
+    "take_profit_2": 88.3334,
+    "take_profit_3": null,
+    "rr_tp1": 1.6,
+    "pips_risque": 9.3,
+    "ouverte_le": "2026-10-04T23:26:32.890343+00:00",
+    "statut": "OUVERTE",
+    "tp1_touche": false,
+    "tp2_touche": false,
+    "tp3_touche": false,
+    "resultat_pips": null,
+    "fermee_le": null
+  }
+]
