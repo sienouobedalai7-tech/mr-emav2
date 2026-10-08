@@ -1699,5 +1699,26 @@
     "tp3_touche": false,
     "resultat_pips": 13.600000000000001,
     "fermee_le": "2026-10-08T19:18:39.344973+00:00"
+  },
+  {
+    "id": "EURJPY=X_2026-10-08T06:06:01.448504+00:00",
+    "ticker": "EURJPY=X",
+    "ticker_display": "EUR/JPY",
+    "asset_type": "forex",
+    "direction": "VENTE",
+    "prix_entree": 177.024,
+    "stop_loss": 177.17682,
+    "take_profit_1": 176.77949,
+    "take_profit_2": 176.65723,
+    "take_profit_3": null,
+    "rr_tp1": 1.6,
+    "pips_risque": 15.3,
+    "ouverte_le": "2026-10-08T06:06:01.448504+00:00",
+    "statut": "FERMEE_SL",
+    "tp1_touche": false,
+    "tp2_touche": false,
+    "tp3_touche": false,
+    "resultat_pips": -15.3,
+    "fermee_le": "2026-10-08T23:46:28.092202+00:00"
   }
 ]
