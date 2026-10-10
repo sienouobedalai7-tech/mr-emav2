@@ -1741,5 +1741,26 @@
     "tp3_touche": false,
     "resultat_pips": 24.2,
     "fermee_le": "2026-10-09T03:05:52.505177+00:00"
+  },
+  {
+    "id": "AUDNZD=X_2026-10-09T21:35:53.712959+00:00",
+    "ticker": "AUDNZD=X",
+    "ticker_display": "AUD/NZD",
+    "asset_type": "forex",
+    "direction": "ACHAT",
+    "prix_entree": 1.24449,
+    "stop_loss": 1.24335,
+    "take_profit_1": 1.24631,
+    "take_profit_2": 1.24722,
+    "take_profit_3": null,
+    "rr_tp1": 1.6,
+    "pips_risque": 11.4,
+    "ouverte_le": "2026-10-09T21:35:53.712959+00:00",
+    "statut": "FERMEE_EXPIREE",
+    "tp1_touche": false,
+    "tp2_touche": false,
+    "tp3_touche": false,
+    "resultat_pips": 0.0,
+    "fermee_le": "2026-10-10T17:58:04.442605+00:00"
   }
 ]

@@ -1,6 +1,6 @@
 [
   {
-    "id": "AUDNZD=X_2026-10-09T21:35:53.712959+00:00",
+    "id": "AUDNZD=X_2026-10-10T17:58:16.585970+00:00",
     "ticker": "AUDNZD=X",
     "ticker_display": "AUD/NZD",
     "asset_type": "forex",
@@ -12,7 +12,7 @@
     "take_profit_3": null,
     "rr_tp1": 1.6,
     "pips_risque": 11.4,
-    "ouverte_le": "2026-10-09T21:35:53.712959+00:00",
+    "ouverte_le": "2026-10-10T17:58:16.585970+00:00",
     "statut": "OUVERTE",
     "tp1_touche": false,
     "tp2_touche": false,
