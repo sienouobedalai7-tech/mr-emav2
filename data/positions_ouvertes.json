@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "id": "AUDNZD=X_2026-10-14T22:19:32.898654+00:00",
+    "ticker": "AUDNZD=X",
+    "ticker_display": "AUD/NZD",
+    "asset_type": "forex",
+    "direction": "ACHAT",
+    "prix_entree": 1.24653,
+    "stop_loss": 1.24442,
+    "take_profit_1": 1.2499,
+    "take_profit_2": 1.25159,
+    "take_profit_3": 1.25328,
+    "rr_tp1": 1.6,
+    "pips_risque": 21.1,
+    "ouverte_le": "2026-10-14T22:19:32.898654+00:00",
+    "statut": "OUVERTE",
+    "tp1_touche": false,
+    "tp2_touche": false,
+    "tp3_touche": false,
+    "resultat_pips": null,
+    "fermee_le": null
+  }
+]
