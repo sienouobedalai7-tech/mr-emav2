@@ -2056,5 +2056,26 @@
     "tp3_touche": false,
     "resultat_pips": 4.960000000000001,
     "fermee_le": "2026-10-20T06:39:02.387420+00:00"
+  },
+  {
+    "id": "GBPJPY=X_2026-10-20T06:39:08.937947+00:00",
+    "ticker": "GBPJPY=X",
+    "ticker_display": "GBP/JPY",
+    "asset_type": "forex",
+    "direction": "ACHAT",
+    "prix_entree": 211.12,
+    "stop_loss": 210.95347,
+    "take_profit_1": 211.38644,
+    "take_profit_2": 211.51966,
+    "take_profit_3": null,
+    "rr_tp1": 1.6,
+    "pips_risque": 16.7,
+    "ouverte_le": "2026-10-20T06:39:08.937947+00:00",
+    "statut": "FERMEE_TP",
+    "tp1_touche": true,
+    "tp2_touche": true,
+    "tp3_touche": false,
+    "resultat_pips": 26.72,
+    "fermee_le": "2026-10-20T16:51:35.619369+00:00"
   }
 ]
