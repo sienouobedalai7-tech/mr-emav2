@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "id": "USDCAD=X_2026-11-13T16:27:46.269580+00:00",
+    "ticker": "USDCAD=X",
+    "ticker_display": "USD/CAD",
+    "asset_type": "forex",
+    "direction": "ACHAT",
+    "prix_entree": 1.42508,
+    "stop_loss": 1.42335,
+    "take_profit_1": 1.42785,
+    "take_profit_2": 1.42923,
+    "take_profit_3": null,
+    "rr_tp1": 1.6,
+    "pips_risque": 17.3,
+    "ouverte_le": "2026-11-13T16:27:46.269580+00:00",
+    "statut": "OUVERTE",
+    "tp1_touche": false,
+    "tp2_touche": false,
+    "tp3_touche": false,
+    "resultat_pips": null,
+    "fermee_le": null
+  }
+]
